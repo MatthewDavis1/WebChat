@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+pydantic
+# Add other dependencies from qa.py and rag.py
+
